@@ -1,4 +1,4 @@
-# pumpfun_bundlerjust use Bundler for Pump.fun if u like RUG
+# pumpfun_bundler just use Bundler for Pump.fun if u like RUG
 Its a just easy Bundler for Pump Fun
 for more info: https://t.me/xxxll_llxxx
 
