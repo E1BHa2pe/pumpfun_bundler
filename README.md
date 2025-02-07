@@ -16,3 +16,9 @@ solders==0.14.0
 
 Its easy for use ;) 
 I update him every day. See you soon!
+
+
+And yes, i make one more Pulls)))
+Look at this:
+
+![photo_2025-02-07_06-50-37](https://github.com/user-attachments/assets/3bff9484-66a8-426f-a9eb-95a9456815e3)
