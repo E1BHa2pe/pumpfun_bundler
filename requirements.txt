@@ -1,0 +1,2 @@
+solana==0.29.0
+soldears==0.14.0
