@@ -2,7 +2,7 @@
 from commands.generate_pump_wallets import generate_pump_wallets
 from commands.import_founder_wallet import import_founder_wallet
 from commands.import_dev_wallet import import_dev_wallet
-
+#for wallets
 def wallet_manager_menu():
     while True:
         print("\nWallet Manager Menu:")
